@@ -14,7 +14,7 @@ function primoInferior($num) {
             }
         }  
     }
-    return " O menor maior número primo abaixo de {$num} é $number";
+    return " O maior número primo abaixo de {$num} é $number";
    
   
 }
