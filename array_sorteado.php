@@ -23,7 +23,7 @@ function bigger_key_value($array) {
             }
         }
     );
-    return "<br> O número que mais se repete é o {$bigger_key} <br> Ele se prepete {$bigger_value} vezes  ";
+    return "<br> O número que mais se repete é o {$bigger_key} <br> Ele se prepete {$bigger_value} vezes.  ";
 }
 
 echo "Numeros sorteados são ";
